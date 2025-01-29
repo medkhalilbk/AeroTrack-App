@@ -16,21 +16,17 @@ Check out a preview of AreoTrack in action:
 https://github.com/user-attachments/assets/a42f7819-f79b-4b42-8d84-c6e26b9e5d98
 
 ## Installation 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/areotrack.git
-   ```
-2. Navigate to the project directory:
+ 
+1. Navigate to the project directory:
    ```bash
    cd areotrack
    ```
-3. Open `AreoTrack.xcodeproj` in Xcode.
-4. Install dependencies using CocoaPods (if applicable):
+2. Open `AreoTrack.xcodeproj` in Xcode.
+3. Install dependencies using CocoaPods (if applicable):
    ```bash
    pod install
    ```
-5. Build and run the app on the iOS Simulator or a physical device.
+4. Build and run the app on the iOS Simulator or a physical device.
 
 ## Requirements 📌
 
